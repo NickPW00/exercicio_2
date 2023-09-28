@@ -1,0 +1,70 @@
+[
+    {
+        "titulo": "Conferência de Tecnologia 2023",
+        "imagens": [
+            "https://i.imgur.com/SJEDdNh.jpg",
+            "https://i.imgur.com/SRYIogI.jpg"
+        ],
+        "local": "Centro de Convenções da Cidade",
+        "data": "2023-10-15",
+        "preco": 50.00,
+        "voo": {
+            "companhia_aerea": "Exemplo Airlines",
+            "numero_voo": "EA123",
+            "origem": "Aeroporto Internacional A",
+            "destino": "Aeroporto da Cidade",
+            "horario_partida": "2023-10-15T08:00:00",
+            "horario_chegada": "2023-10-15T10:30:00",
+            "preco": 300.00
+        }
+    },
+    {
+        "titulo": "Concerto de Verão",
+        "imagens": [
+            "https://i.imgur.com/RgdxIFW.jpg",
+            "https://i.imgur.com/AiWnE9X.jpg"
+        ],
+        "local": "Anfiteatro da Praça",
+        "data": "2023-07-20",
+        "preco": 25.00,
+        "voo": {
+            "companhia_aerea": "Exemplo Airlines",
+            "numero_voo": "EA456",
+            "origem": "Aeroporto Internacional B",
+            "destino": "Aeroporto da Cidade",
+            "horario_partida": "2023-07-20T14:30:00",
+            "horario_chegada": "2023-07-20T17:00:00",
+            "preco": 150.00
+        }
+    },
+    {
+        "titulo": "Feira de Arte Local",
+        "imagens": [
+            "https://i.imgur.com/zRSP7f5.jpg",
+            "https://i.imgur.com/ufQJffl.jpg"
+        ],
+        "local": "Praça das Artes",
+        "data": "2023-09-05",
+        "preco": 10.00,
+        "voo": null
+    },
+    {
+        "titulo": "Semana da Ciência",
+        "imagens": [
+            "https://exemplo.com/imagem4_1.jpg",
+            "https://i.imgur.com/Rqnj5Jp.jpg"
+        ],
+        "local": "Universidade da Cidade",
+        "data": "2023-11-08",
+        "preco": 0.00,
+        "voo": {
+            "companhia_aerea": "Exemplo Airlines",
+            "numero_voo": "EA789",
+            "origem": "Aeroporto Internacional C",
+            "destino": "Aeroporto da Cidade",
+            "horario_partida": "2023-11-08T09:15:00",
+            "horario_chegada": "2023-11-08T11:45:00",
+            "preco": 200.00
+        }
+    }
+]
